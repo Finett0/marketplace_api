@@ -1,1 +1,1 @@
-# Projeto Rails API é uma aplicação com boas praticas.s
+# Rails API Markteplace
